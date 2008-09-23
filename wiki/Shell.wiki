@@ -7,12 +7,12 @@
 
 ==Required Parameters==
 
-||Name||Type||Description||
+||*Name*||*Type*||*Description*||
 ||gwtHome||String||No description.||
 
 ==Optional Parameters==
 
-||Name||Type||Description||
+||*Name*||*Type*||*Description*||
 ||debug||boolean||No description. Default value is true.||
 ||debugPort||String||No description. Default value is 5005.||
 ||gwtApp||String||The GWT application to be excuted. Specified as the full qualified name of the gwt.xml file, leaving out the double extention (.gwt.xml). If this variable is left unset, the plugin will search through the classpath to find all applications.||
