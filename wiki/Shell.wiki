@@ -6,9 +6,12 @@
     * Requires dependency resolution of artifacts in scope: runtime
 
 ==Required Parameters==
+
 ||Name||Type||Description||
 ||gwtHome||String||No description.||
+
 ==Optional Parameters==
+
 ||Name||Type||Description||
 ||debug||boolean||No description. Default value is true.||
 ||debugPort||String||No description. Default value is 5005.||
